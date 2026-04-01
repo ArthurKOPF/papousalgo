@@ -1,4 +1,4 @@
-PapouAlgo est un projet Open-Source d'un algorithme qui répète la fameuse blague des Papous.
+Papous Algo est un projet Open-Source d'un algorithme qui répète la fameuse blague des Papous.
 Je mets PapouAlgo Régulièrement à jour pour des nouveautés ou des corrections de bugs !
 
 ## Utilisation (sans exécutable)
