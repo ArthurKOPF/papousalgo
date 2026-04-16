@@ -5,4 +5,4 @@ if __name__ == "__main__":
     for i in range (1000):
         resultat += gener_bloc()
     print(resultat)
-    input("Appuyez sur Entrée pour quitter...")
+    input("Appuyez sur Entrée pour quitter...") 
